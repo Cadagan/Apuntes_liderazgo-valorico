@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ﻿# Apuntes_liderazgo-valorico
-=======
-# Apuntes_liderazgo-valorico
->>>>>>> 1b8b557e23ebc919b1d4ac7bbcfa32f84b2fe06d
+
 Apuntes del curso :) (Martín Cadagan) 
 El nombre de cada archivo es la fecha de la clase de esos apuntes.
 
