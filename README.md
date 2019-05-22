@@ -1,6 +1,7 @@
 ﻿# Apuntes_liderazgo-valorico
 
 Apuntes del curso :) (Martín Cadagan) 
+
 El nombre de cada archivo es la fecha de la clase de esos apuntes.
 
 Hice estos apuntes de clases en este formato porque mi letra es horrible 😬
