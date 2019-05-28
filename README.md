@@ -1,6 +1,6 @@
 # Apuntes_liderazgo valórico
 
-Apuntes del curso :) (Martín Cadagan)
+Apuntes del curso :)
 
 ---
 * El nombre de cada archivo es la fecha de la clase de esos apuntes.
@@ -9,4 +9,4 @@ Apuntes del curso :) (Martín Cadagan)
 
 * Perdón por la inmensa cantidad de *errores ortográficos* que enontrarán a lo largo de los archivos. Escribí lo más rapido que podia y no paraba a revisar nada  😅
 
-Ojala les sirva! 😊 cualquier cosa me pueden avisar al mail (mcadagan@uc.cl)
+Ojala les sirva! 😊 cualquier cosa me pueden avisar al mail (mcadagan@uc.cl, Martín Cadagan)
